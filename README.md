@@ -1,1 +1,1 @@
-# First-Project-D
+My first example console application project, in which I connected MS-SQL to perform standard CRUD operations and implemented the Switch-case Statement and Nlog concepts for writing success and error logs as well.
